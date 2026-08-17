@@ -57,25 +57,26 @@ To provide an engaging interactive platform where users guess a secret number be
 ## Tech Stack
 
 ### Frontend
-- React
-- HTML5
-- Tailwind CSS
-- Axios
+•	React
+•	HTML5
+•	Tailwind CSS
+•	Chart.js / Axios
 
 ### Backend
-- Node.js + Express
-- REST API
-- JWT Authentication
-- bcryptjs & Game Logic Middleware
+•	Python + Flask / FastAPI
+•	REST API
+•	Joblib / Scikit-Learn Model Runner
+•	Pandas & NumPy
 
 ### Database
-- MongoDB
-- Mongoose ODM
+•	PostgreSQL / MongoDB
+•	SQLAlchemy / Mongoose
 
 ### Tools
-- Git & GitHub
-- VS Code
-- Postman
+•	Git & GitHub
+•	VS Code
+•	Jupyter Notebooks
+•	Postman
 
 ---
 
