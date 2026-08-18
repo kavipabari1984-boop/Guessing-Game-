@@ -56,37 +56,32 @@ To provide an engaging interactive platform where users guess a secret number be
 
 ## Tech Stack
 
-### Frontend
-•	React
-•	HTML5
-•	Tailwind CSS
-•	Chart.js / Axios
+### Core Language
 
-### Backend
-•	Python + Flask / FastAPI
-•	REST API
-•	Joblib / Scikit-Learn Model Runner
-•	Pandas & NumPy
+Python 3
 
-### Database
-•	PostgreSQL / MongoDB
-•	SQLAlchemy / Mongoose
+Machine Learning & Data Science Libraries
+scikit-learn 1.4.2 pandas numpy matplotlib joblib
 
-### Tools
-•	Git & GitHub
-•	VS Code
-•	Jupyter Notebooks
-•	Postman
+### Specific ML Components (from scikit-learn)
 
+gradientboostingregressor columntransformer selectpercentile
+
+### Web Framework
+
+streamlit
+
+### Development Environment
+
+jupyter notebook venv (virtual environment)
+
+### Storage & Infrastructure
+Azurite Queue Storage
+
+###Data
+
+CSV files
 ---
-
-## Architecture
-
-Client (Frontend - React)  
-↓  
-Server (REST API - Node/Express)  
-↓  
-Database (MongoDB)  
 
 ### Folder Structure
 
