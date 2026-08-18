@@ -80,7 +80,8 @@ Azurite Queue Storage
 
 ### Data
 
-CSV files
+CSV Files
+
 ---
 
 ### Folder Structure
