@@ -63,25 +63,6 @@ Python 3
 Machine Learning & Data Science Libraries
 scikit-learn 1.4.2 pandas numpy matplotlib joblib
 
-### Specific ML Components (from scikit-learn)
-
-gradientboostingregressor columntransformer selectpercentile
-
-### Web Framework
-
-streamlit
-
-### Development Environment
-
-jupyter notebook venv (virtual environment)
-
-### Storage & Infrastructure
-Azurite Queue Storage
-
-### Data
-
-CSV Files
-
 ---
 
 ### Folder Structure
