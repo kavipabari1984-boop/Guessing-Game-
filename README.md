@@ -78,7 +78,7 @@ jupyter notebook venv (virtual environment)
 ### Storage & Infrastructure
 Azurite Queue Storage
 
-###Data
+### Data
 
 CSV files
 ---
