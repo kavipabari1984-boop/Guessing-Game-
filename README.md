@@ -60,9 +60,6 @@ To provide an engaging interactive platform where users guess a secret number be
 
 Python 3
 
-Machine Learning & Data Science Libraries
-scikit-learn 1.4.2 pandas numpy matplotlib joblib
-
 ---
 
 ### Folder Structure
